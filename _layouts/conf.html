@@ -19,7 +19,9 @@
     <link rel="stylesheet" type="text/css" href="{{ "/static/css/bootstrap.min.css" | prepend:site.baseurl }}">
     <link rel="stylesheet" type="text/css" href="{{ "/static/css/deadlines.css" | prepend:site.baseurl }}?t={{site.time | date: '%s'}}" media="screen,projection">
     <link rel="shortcut icon" href="{{ "/static/img/favicon" | prepend:site.baseurl }}">
+    
     <script type="text/javascript" src="{{ "/static/js/jquery.min.js" | prepend:site.baseurl }}"></script>
+    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
     <script type="text/javascript" src="{{ "/static/js/jquery.countdown.min.js" | prepend:site.baseurl }}"></script>
     <script src="{{ "/static/js/moment.min.js" | prepend:site.baseurl }}"></script>
     <script src="{{ "/static/js/moment-timezone-with-data.min.js" | prepend:site.baseurl }}"></script>
@@ -154,6 +156,7 @@
         </div>
         </div>
         <footer>
+          {% include comment.html %}
           <div class="row">
             <div class="col-xs-16 col-sm-8">
               <a href="//github.com/{{ site.github_username }}/{{ site.github_repo }}">This page</a> is maintained by <a target="_blank" href="//github.com/{{ site.github_username }}/{{ site.github_repo }}">@{{ site.github_username }}</a>.<br>
