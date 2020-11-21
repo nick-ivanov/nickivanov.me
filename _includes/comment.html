@@ -3,10 +3,10 @@
   /* All the code for the comment section */
  
   // Disqus js code START
-  // var disqus_config = function() {
-  //   this.page.url = '{{ site.url }}{{ page.id | remove:'/' }}/';
-  //   this.page.identifier = '{{ site.disqus.shortname }}';
-  // };
+  var disqus_config = function() {
+    this.page.url = '{{ site.url }}{{ site.domain}}/';
+    this.page.identifier = '{{site.domain}}';
+  };
  
   function toggleDisqusComments(container) {
     if ($(container).has("iframe").length > 0) {
