@@ -4,8 +4,9 @@
  
   // Disqus js code START
   var disqus_config = function() {
-    this.page.url = '{{ site.url }}{{ site.domain}}/';
+    this.page.url = '{{ site.url }}/{{ site.domain}}/';
     this.page.identifier = '{{site.domain}}';
+    console.log(this.page.url, this.page.identifier)
   };
  
   function toggleDisqusComments(container) {
