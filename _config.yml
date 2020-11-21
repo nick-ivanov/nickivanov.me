@@ -21,3 +21,7 @@ markdown: kramdown
 # ga_id: UA-36274081-2
 
 include: ['_pages']
+
+# Disqus ID
+disqus:
+  shortname: cs-conference-tracker

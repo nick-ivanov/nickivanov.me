@@ -3,10 +3,10 @@
   /* All the code for the comment section */
  
   // Disqus js code START
-  var disqus_config = function() {
-    this.page.url = '{{ site.url }}{{ page.id | remove:'/' }}/';
-    this.page.identifier = '{{page.id | remove:'/' }}';
-  };
+  // var disqus_config = function() {
+  //   this.page.url = '{{ site.url }}{{ page.id | remove:'/' }}/';
+  //   this.page.identifier = '{{ site.disqus.shortname }}';
+  // };
  
   function toggleDisqusComments(container) {
     if ($(container).has("iframe").length > 0) {
@@ -16,7 +16,7 @@
     }
     (function() { // DON'T EDIT BELOW THIS LINE
     var d = document, s = d.createElement('script');
-    s.src = 'https://cs-conference-tracker.disqus.com/embed.js';
+    s.src = 'https://{{ site.disqus.shortname }}.disqus.com/embed.js';
     s.setAttribute('data-timestamp', +new Date());
     (d.head || d.body).appendChild(s);
     })();
