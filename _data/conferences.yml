@@ -98,18 +98,6 @@
   sub: ML
   note: '<b>NOTE</b>: Mandatory abstract deadline on Jan 28, 2021. More info <a href=''https://icml.cc/Conferences/2021/CallForPapers''>here</a>.'
 
-- title: USENIX Security
-  hindex: -1
-  year: 2021
-  id: usenixsecurity21
-  link: https://www.usenix.org/conference/usenixsecurity21
-  abstract_deadline: '2021-02-04 23:59:59'
-  deadline: '2021-02-04 23:59:59'
-  timezone: UTC-12
-  date: "August 11-13, 2021"
-  place: Vancouver, B.C., Canada
-  sub: SP
-
 - title: KDD
   hindex: 30
   year: 2020
@@ -403,18 +391,6 @@
   place: Fukuoka, Japan
   sub: CV
 
-- title: NDSS
-  hindex: -1
-  year: 2021
-  id: ndss21
-  link: https://www.ndss-symposium.org/ndss2021/call-for-papers/
-  abstract_deadline: '2020-07-31 23:59:59'
-  deadline: '2020-07-31 23:59:59'
-  timezone: UTC-12
-  date: "February 21-24, 2021"
-  place: Online
-  sub: SP
-
 - title: INFOCOM
   hindex: -1
   year: 2021
@@ -571,3 +547,109 @@
   date: June 19-25, 2021
   place: Nashville, USA
   sub: CV
+
+# Security and Privacy
+
+- name: S&P (Oakland)
+  year: 2021
+  date: May 23–27, 2021
+  description: IEEE Symposium on Security and Privacy
+  link: https://www.ieee-security.org/TC/SP2021/
+  deadline: '2020-12-03 23:59'
+  abstract_deadline: '2020-12-03 23:59'
+  timezone: UTC-12
+  place: San Francisco, California, USA
+  tags: SA
+  Note: Winter Quarter & Early-reject Jan 15, 2021
+
+- name: Euro S&P
+  description: IEEE European Symposium on Security and Privacy
+  year: 2021
+  link: https://www.ieee-security.org/TC/EuroSP2021/
+  deadline: "2020-11-05 23:59"
+  abstract_deadline: '2020-11-05 23:59'
+  date: September 7-11, 2021
+  timezone: UTC-12
+  place: Vienna, Austria
+  tags: SA
+  Note: Early-reject Dec 16, 2020
+
+- name: CCS
+  description: ACM Conference on Computer and Communications Security
+  year: 2021
+  link: https://www.sigsac.org/ccs/CCS2021/
+  deadline: "2021-01-20 23:59"
+  timezone: UTC-12
+  date: November 14-19, 2021
+  place: Seoul, South Korea
+  tags: SA
+  Note: 1st Round & Tentative Submission Deadline
+
+- name: AsiaCCS
+  description: ACM Asia Conference on Computer and Communications Security
+  year: 2021
+  link: https://asiaccs2021.comp.polyu.edu.hk
+  deadline: "2020-12-11 23:59"
+  date: "June 7-11, 2021"
+  place: Hong Kong, China
+  tags: SA
+  timezone: UTC-12
+  Note: 2nd Round & Author Notification Feb 15, 2021
+
+- title: USENIX Security
+  hindex: -1
+  year: 2021
+  id: usenixsecurity21
+  link: https://www.usenix.org/conference/usenixsecurity21
+  abstract_deadline: '2021-02-04 23:59:59'
+  deadline: '2021-02-04 23:59:59'
+  timezone: UTC-12
+  date: "August 11-13, 2021"
+  place: Vancouver, B.C., Canada
+  sub: SP
+  note: Winter Deadline & Early-reject March 12, 2021
+
+- title: NDSS
+  hindex: -1
+  year: 2021
+  id: ndss21
+  link: https://www.ndss-symposium.org/ndss2021/
+  abstract_deadline: '2020-07-31 23:59:59'
+  deadline: '2020-07-31 23:59:59'
+  timezone: UTC-12
+  date: "February 21-24, 2021"
+  place: Online
+  sub: SP
+
+# - name: ESORICS
+#   year: 2020
+#   link: http://esorics2020.sccs.surrey.ac.uk
+#   deadline: "2020-04-24 23:59"
+#   comment: Title and abstract deadline on April 17
+#   date: September 23-27
+#   place: Surrey, UK
+#   tags: SP
+
+# - name: WiSec
+#   description: ACM Conference on Security and Privacy in Wireless and Mobile Networks
+#   year: 2020
+#   link: https://wisec2020.ins.jku.at/
+#   deadline: "2020-03-13 23:59"
+#   date: July 8-10
+#   place: Linz, Austria
+#   tags: SP
+
+- name: SOUPS
+  description: Usenix Symposium on Usable Security and Privacy
+  year: 2021
+  link: https://www.usenix.org/conference/soups2021
+  deadline: "2021-02-25 23:59"
+  abstract_deadline: '2021-02-18 23:59:59'
+  date: AUGUST 8–10, 2021
+  place: Vancouver, Canada
+  timezone: UTC-12
+  tags: SP
+  Note: Co-located with USENIX Security'21 & Early-rejection March 30, 2021
+
+
+
