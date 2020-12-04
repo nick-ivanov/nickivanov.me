@@ -313,7 +313,6 @@
         var subs = url.searchParams.get('sub');
         if (subs == undefined) {
            subs = store.get('{{ site.domain }}');
-           console.log("!!",subs);
         } else {
            subs = subs.toUpperCase().split(',');
         }
