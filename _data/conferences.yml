@@ -591,13 +591,13 @@
   id: ccs21
   year: 2021
   link: https://www.sigsac.org/ccs/CCS2021/
-  deadline: "2021-01-20 23:59"
-  abstract_deadline: '2021-01-20 23:59'
+  deadline: "2021-05-06 23:59"
+  abstract_deadline: '2021-05-06 23:59'
   timezone: UTC-12
   date: November 14-19, 2021
   place: Seoul, South Korea
   sub: SP
-  note: 1st Round & Tentative Submission Deadline
+  note: 2st Round & Tentative Submission Deadline
 
 - title: AsiaCCS
   description: ACM Asia Conference on Computer and Communications Security
