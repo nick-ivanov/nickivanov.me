@@ -643,7 +643,7 @@
   year: 2021
   id: soups21
   link: https://www.usenix.org/conference/soups2021
-  deadline: "2021-02-25 23:59"
+  deadline: '2021-02-25 23:59'
   abstract_deadline: '2021-02-18 23:59:59'
   date: AUGUST 8–10, 2021
   place: Vancouver, Canada
@@ -654,8 +654,9 @@
 - title: ESORICS
   description: European Symposium on Research in Computer Security
   year: 2021
+  id: esorics21
   link: https://esorics2021.athene-center.de/call-for-papers.php
-  deadline: "2021-05-12 23:59"
+  deadline: '2021-05-12 23:59'
   abstract_deadline: '2021-05-05 23:59'
   timezone: UTC-5
   date: October 4-8， 2021
@@ -664,10 +665,12 @@
 
 - title: WiSec
   description: ACM Conference on Security and Privacy in Wireless and Mobile Networks
+  id: wisec21
   year: 2021
   link: https://sites.nyuad.nyu.edu/wisec21/
-  deadline: "2021-03-18 23:59"
-  date: June 28 - July 1
+  deadline: '2021-03-18 23:59'
+  abstract_deadline: '2021-03-18 23:59'
+  date: June 28-July 1
   place: Virtual, Abu Dhabi, UAE
   sub: SP
 
