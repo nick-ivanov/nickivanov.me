@@ -651,7 +651,7 @@
   sub: SP
   note: Co-located with USENIX Security'21 & Early-rejection March 30, 2021
 
-- name: ESORICS
+- title: ESORICS
   description: European Symposium on Research in Computer Security
   year: 2021
   link: https://esorics2021.athene-center.de/call-for-papers.php
@@ -663,7 +663,7 @@
   place: Darmstadt, Germany
   sub: SP
 
-- name: WiSec
+- title: WiSec
   description: ACM Conference on Security and Privacy in Wireless and Mobile Networks
   year: 2021
   link: https://sites.nyuad.nyu.edu/wisec21/
