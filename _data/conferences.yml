@@ -19,11 +19,12 @@
   link: https://www.sigmobile.org/mobihoc/2021/
   deadline: '2020-12-19 23:59:59'
   abstract_deadline: '2020-12-12 23:59:59'
+  notification_deadline: '2021-04-25 23:59:59'
   timezone: UTC-4
   date: July 26-31, 2021
   place: Shanghai, China
   sub: MC
-  note: Notification 2021-04-25
+  note: 
 
 - title: CHIL
   hindex: -1
@@ -36,7 +37,7 @@
   date: April 8-10, 2021
   place: Online
   sub: ML
-  note: '<b>NOTE</b>: Mandatory abstract deadline on Jan 7, 2021. More info <a href=''https://www.chilconference.org''>here</a>.'
+  note: 
 
 - title: ICDCS
   hindex: -1
@@ -58,7 +59,7 @@
   abstract_deadline: '2021-01-13 23:59:59'
   deadline: '2021-01-13 23:59:59'
   timezone: America/Los_Angeles
-  date: September, 19-22, 2021
+  date: Sep, 19-22, 2021
   place: Anchorage, Alaska, USA
   sub: CV
 
@@ -69,11 +70,12 @@
   link: https://ijcai-21.org/
   deadline: '2021-01-18 23:59:59'
   abstract_deadline: '2021-01-12 23:59:59'
+  notification_deadline: '2021-04-30 23:59:59'
   timezone: UTC-12
-  date: August 21-26, 2021
+  date: Aug 21-26, 2021
   place: Montreal, Canada
   sub: ML
-  note: Notification 2021-04-30
+  note: 
 
 - title: SIGCOMM
   hindex: -1
@@ -82,11 +84,12 @@
   link: https://conferences.sigcomm.org/sigcomm/2021/
   abstract_deadline: '2021-01-20 23:59:59'
   deadline: '2021-01-27 23:59:59'
+  notification_deadline: '2021-05-03 23:59:59'
   timezone: UTC-4
-  date: August 23-27, 2021
+  date: Aug 23-27, 2021
   place: Online
   sub: MC
-  note: Notification 2021-05-03
+  note: 
 
 
 - title: ICML
@@ -96,11 +99,12 @@
   link: https://icml.cc/Conferences/2021
   deadline: '2021-02-04 23:59:00'
   abstract_deadline: '2021-01-28 23:59:00'
+  notification_deadline: '2021-05-08 23:59:59'
   timezone: UTC-12
   date: July 18-24, 2021
   place: Vienna, Austria
   sub: ML
-  note: Notification 2021-05-08
+  note: 
 
 - title: KDD
   hindex: 30
@@ -109,11 +113,12 @@
   link: https://www.kdd.org/kdd2021/
   abstract_deadline: '2021-02-08 23:59:59'
   deadline: '2021-02-08 23:59:59'
+  notification_deadline: '2021-05-17 23:59:59'
   timezone: UTC-11
-  date: August 14-28, 2021
+  date: Aug 14-28, 2021
   place: Singapore
   sub: DM
-  note: Notification 2021-05-17
+  note: 
 
 - title: SIGIR
   hindex: 57
@@ -134,11 +139,12 @@
   link: https://ubicomp.hosting.acm.org/ubicomp2021/
   deadline: '2021-05-15 23:59:59'
   abstract_deadline: '2021-05-15 23:59:59'
+  notification_deadline: '2021-07-04 23:59:59'
   timezone: UTC-7
-  date: September 11-15, 2021
+  date: Sep 11-15, 2021
   place: Cancun, Mexico
   sub: CHI
-  note: Notification 2021-07-04
+  note: 
 
 - title: ICCV
   hindex: 176
@@ -148,7 +154,7 @@
   deadline: '2021-03-17 23:59:00'
   abstract_deadline: '2021-03-10 23:59:00'
   timezone: America/Los_Angeles
-  date: October 11-17, 2021
+  date: Oct 11-17, 2021
   place: Montreal, Canada
   sub: CV
 
@@ -159,11 +165,12 @@
   link: https://www.sigmobile.org/mobicom/2021/
   deadline: '2021-03-26 23:59:59'
   abstract_deadline: '2021-03-19 23:59:59'
+  notification_deadline: '2021-06-11 23:59:59'
   timezone: UTC-4
-  date: October 25-29, 2021
+  date: Oct 25-29, 2021
   place: New Orleans, USA
   sub: MC
-  note: Notification 2021-06-11
+  note: 
 
 - title: MobiSys
   hindex: -1
@@ -172,11 +179,12 @@
   link: https://www.sigmobile.org/mobisys/2021/
   abstract_deadline: '2021-01-08 23:59:59'
   deadline: '2021-01-15 23:59:59'
+  notification_deadline: '2021-03-25 23:59:59'
   timezone: UTC-12
   date: TBD
   place: TBD
   sub: MC
-  note: Early-reject March 1, 2021 & Notif of Acc March 25, 2021
+  note: '<b>NOTE</b>: Early-reject March 1, 2021'
 
 - title: SenSys
   hindex: -1
@@ -185,11 +193,12 @@
   link: https://sensys.acm.org/2021/
   abstract_deadline: '2021-05-28 23:59:59'
   deadline: '2021-06-04 23:59:59'
+  notification_deadline: '2021-09-08 23:59:59'
   timezone: UTC-12
   date: Nov 15-17, 2021
   place: Coimbra, Portugal
   sub: MC
-  note: Notif of Acc Sept 08, 2021
+  note: 
 
 - title: ALT
   hindex: 15
@@ -213,7 +222,7 @@
   date: June 14-19, 2020
   place: Nancy, France
   sub: ML
-  note: '<b>NOTE</b>: Mandatory abstract deadline on Nov 15, 2019. More info <a href=''https://icaps20.icaps-conference.org/''>here</a>.'
+  note: 
 
 - title: ICMR
   hindex: 33
@@ -234,7 +243,7 @@
   abstract_deadline: '2021-01-27 22:00:00'
   deadline: '2021-01-28 22:00:00'
   timezone: UTC
-  date: August 1-5, 2021
+  date: Aug 1-5, 2021
   place: Online
   sub: CV
 
@@ -267,7 +276,7 @@
   link: http://auai.org/uai2020/
   deadline: '2020-02-20 23:59:59'
   timezone: UTC+1
-  date: August 3-6, 2020
+  date: Aug 3-6, 2020
   place: Toronto, Canada
   sub: ML
 
@@ -278,7 +287,7 @@
   link: https://eccv2020.eu
   deadline: '2020-03-05 23:59:00'
   timezone: UTC
-  date: August 23-28, 2020
+  date: Aug 23-28, 2020
   place: Glasgow, Scotland, UK
   sub: CV
 
@@ -300,10 +309,10 @@
   link: http://www.miccai2020.org/
   deadline: '2020-03-17 23:59:59'
   timezone: America/Los_Angeles
-  date: October 4-8, 2020
+  date: Oct 4-8, 2020
   place: Lima, Peru
   sub: CV
-  note: '<b>NOTE</b>: Intent to submit deadline on Mar 03, 2020. More info <a href=''https://www.miccai2020.org/''>here</a>.'
+  note: 
 
 - title: ECML-PKDD
   hindex: 30
@@ -313,10 +322,10 @@
   deadline: '2020-04-02 23:59:59'
   abstract_deadline: '2020-03-19 23:59:59'
   timezone: UTC-12
-  date: September 14-18, 2020
+  date: Sep 14-18, 2020
   place: Ghent, Belgium
   sub: ML
-  note: '<b>NOTE</b>: Mandatory abstract deadline on Mar 19, 2020. More info <a href=''https://ecmlpkdd2020.net/submissions/deadlines/''>here</a>.'
+  note: 
 
 - title: BMVC
   hindex: 46
@@ -326,10 +335,10 @@
   deadline: '2020-04-30 23:59:59'
   abstract_deadline: '2020-04-23 23:59:59'
   timezone: UTC-8
-  date: September 7-11, 2020
+  date: Sep 7-11, 2020
   place: Manchester, UK
   sub: CV
-  note: '<b>NOTE</b>: Mandatory abstract deadline on Apr 23, 2020. More info <a href=''https://britishmachinevisionassociation.github.io/bmvc''>here</a>.'
+  note: 
 
 - title: CIKM
   hindex: 48
@@ -338,11 +347,12 @@
   link: https://cikm2021.org/
   deadline: '2021-05-26 23:59:59'
   abstract_deadline: '2020-05-19 23:59:59'
+  notification_deadline: '2021-08-09 23:59:59'
   timezone: UTC-12
   date: Nov 01-05, 2021
   place: Gold Coast, Australia
   sub: DM
-  note: Notification 2021-08-09
+  note: 
 
 - title: MM
   hindex: 58
@@ -351,7 +361,7 @@
   link: https://2020.acmmm.org/
   deadline: '2020-05-24 23:59:00'
   timezone: UTC-12
-  date: October 12-16, 2020
+  date: Oct 12-16, 2020
   place: Seattle, USA
   sub: CV
 
@@ -363,10 +373,10 @@
   deadline: '2020-06-01 23:59:59'
   abstract_deadline: '2020-05-25 23:59:59'
   timezone: UTC-12
-  date: September 22-26, 2020
+  date: Sep 22-26, 2020
   place: Online
   sub: DM
-  note: '<b>NOTE</b>: Mandatory abstract deadline on May 25, 2020. More info <a href=''https://recsys.acm.org/recsys20/dates/''>here</a>.'
+  note: 
 
 - title: NeurIPS
   hindex: 198
@@ -376,10 +386,10 @@
   deadline: '2021-05-26 13:00:00'
   abstract_deadline: '2021-05-19 13:00:00'
   timezone: America/Los_Angeles
-  date: December 6-12, 2020
-  place: Vancouver Convention Centre, Canada
+  date: Dec 6-12, 2020
+  place: Vancouver, Canada
   sub: ML
-  note: '<b>NOTE</b>: Mandatory abstract deadline on May 27, 2020'
+  note: 
 
 - title: ICDM
   hindex: 44
@@ -388,7 +398,7 @@
   link: http://icdm2020.bigke.org/
   deadline: '2020-06-11 23:59:59'
   timezone: UTC-7
-  date: November 17-20, 2020
+  date: Nov 17-20, 2020
   place: Sorrento, Italy
   sub: DM
 
@@ -399,7 +409,7 @@
   link: http://accv2020.kyoto/
   deadline: '2020-07-08 23:59:00'
   timezone: UTC
-  date: November 30-December 4, 2020
+  date: Nov 30-Dec 4, 2020
   place: Online
   sub: CV
 
@@ -421,7 +431,7 @@
   link: http://3dv2020.dgcv.nii.ac.jp/index.html
   deadline: '2020-07-31 23:59:59'
   timezone: America/Los_Angeles
-  date: November 25-28, 2020
+  date: Nov 25-28, 2020
   place: Fukuoka, Japan
   sub: CV
 
@@ -447,7 +457,7 @@
   date: February 2-9, 2021
   place: Vancouver, Canada
   sub: ML
-  note: '<b>NOTE</b>: Mandatory abstract deadline on September 01, 2020'
+  note: 
 
 - title: CHI
   hindex: -1
@@ -468,11 +478,12 @@
   link: https://www.usenix.org/conference/nsdi21
   abstract_deadline: '2021-09-09 23:59:59'
   deadline: '2021-09-15 23:59:59'
+  notification_deadline: '2021-12-15 23:59:59'
   timezone: UTC-4
   date: "April 04-06, 2022"
   place: Renton, WA, USA
   sub: SA
-  note: Notification 2021-12-15
+  note: 
 
 - title: WACV
   hindex: 46
@@ -484,7 +495,7 @@
   date: January 5-9, 2021
   place: Waikoloa, Hawaii, USA
   sub: CV
-  note: '<b>NOTE</b>: Second round submission deadline.'
+  note: '<b>NOTE</b>: Second round.'
 
 - title: ICLR
   hindex: 150
@@ -497,8 +508,7 @@
   date: May 4, 2021
   place: Vienna, Austria
   sub: ML
-  note: '<b>NOTE</b>: Mandatory abstract deadline on September 28, 2020. More info
-    <a href=''https://iclr.cc/Conferences/2021/CallForPapers''>here</a>.'
+  note: 
 
 - title: PerCom
   hindex: -1
@@ -523,7 +533,7 @@
   date: May 3-7, 2021
   place: London, UK
   sub: ML
-  note: '<b>NOTE</b>: Mandatory abstract deadline on Oct 02, 2020. More info <a href=''https://aamas2021.soton.ac.uk/calls/papers/''>here</a>.'
+  note: 
 
 - title: SDM
   hindex: 33
@@ -546,7 +556,7 @@
   date: April 13-15, 2021
   place: San Diego, California, USA
   sub: ML
-  note: '<b>NOTE</b>: Mandatory abstract deadline on Oct 8, 2020. More info <a href=''http://www.aistats.org/aistats2021/cfp.html''>here</a>.'
+  note: 
 
 - title: WWW
   hindex: 70
@@ -558,7 +568,7 @@
   date: April 19-23, 2021
   place: Ljubljana, Slovenia
   sub: DM
-  note: '<b>NOTE</b>: Mandatory abstract deadline on October 12, 2020'
+  note: 
 
 - title: IPSN
   hindex: -1
@@ -578,11 +588,12 @@
   id: cvpr21
   link: http://cvpr2021.thecvf.com/
   deadline: '2020-11-16 23:59:59'
+  notification_deadline: '2021-02-28 23:59:59'
   timezone: America/Los_Angeles
   date: June 19-25, 2021
   place: Nashville, USA
   sub: CV
-  note: Notification 2021-02-28
+  note: 
 
 - title: S&P
   year: 2022
@@ -595,7 +606,7 @@
   timezone: UTC-12
   place: San Francisco, California, USA
   sub: SP
-  note: Three deadlines
+  note: '<b>NOTE</b>: Three deadlines'
 
 - title: Euro S&P
   description: IEEE European Symposium on Security and Privacy
@@ -604,11 +615,11 @@
   link: https://www.ieee-security.org/TC/EuroSP2021/
   deadline: "2020-11-05 23:59"
   abstract_deadline: '2020-11-05 23:59'
-  date: September 7-11, 2021
+  date: Sep 7-11, 2021
   timezone: UTC-12
   place: Vienna, Austria
   sub: SA
-  note: Early-reject Dec 16, 2020
+  note: '<b>NOTE</b>: Early-reject Dec 16, 2020'
 
 - title: CCS
   id: ccs21
@@ -617,10 +628,10 @@
   deadline: "2021-05-06 23:59"
   abstract_deadline: '2021-05-06 23:59'
   timezone: UTC-12
-  date: November 14-19, 2021
+  date: Nov 14-19, 2021
   place: Seoul, South Korea
   sub: SP
-  note: 2st Round & Tentative Submission Deadline
+  note: '<b>NOTE</b>: 2nd Round'
 
 - title: AsiaCCS
   description: ACM Asia Conference on Computer and Communications Security
@@ -629,11 +640,12 @@
   link: https://asiaccs2021.comp.polyu.edu.hk
   deadline: "2020-12-11 23:59"
   abstract_deadline: "2020-12-11 23:59"
+  notification_deadline: '2021-02-15 23:59:59'
   date: "June 7-11, 2021"
   place: Hong Kong, China
   sub: SP
   timezone: UTC-12
-  note: 2nd Round & Author Notification Feb 15, 2021
+  note: '<b>NOTE</b>: 2nd Round'
 
 - title: USENIX Security
   hindex: -1
@@ -643,10 +655,10 @@
   abstract_deadline: '2021-06-08 23:59:59'
   deadline: '2021-06-08 23:59:59'
   timezone: UTC-12
-  date: "August 10-12, 2022"
+  date: "Aug 10-12, 2022"
   place: Vancouver, B.C., Canada
   sub: SP
-  note: Summer Deadline & Early-reject July 15, 2021
+  note: '<b>NOTE</b>: Summer Deadline'
 
 - title: NDSS
   hindex: -1
@@ -671,7 +683,7 @@
   place: Vancouver, Canada
   timezone: UTC-12
   sub: SP
-  note: Co-located with USENIX Security'21 & Early-rejection March 30, 2021
+  note: '<b>NOTE</b>: Early-rejection March 30, 2021'
 
 - title: ESORICS
   description: European Symposium on Research in Computer Security
@@ -681,7 +693,7 @@
   deadline: '2021-05-12 23:59'
   abstract_deadline: '2021-05-05 23:59'
   timezone: UTC-5
-  date: October 4-8， 2021
+  date: Oct 4-8, 2021
   place: Darmstadt, Germany
   sub: SP
 
@@ -694,6 +706,6 @@
   abstract_deadline: '2021-03-25 23:59'
   date: June 28-July 1
   place: Virtual, Abu Dhabi, UAE
-  note: Extended deadline
+  note: '<b>NOTE</b>: Extended deadline'
   sub: SP
 
