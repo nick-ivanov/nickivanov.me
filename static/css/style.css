@@ -171,14 +171,14 @@ a, a:hover
 { outline: none;
   text-decoration: none;
   /*color: #323232;*/
-  color:#18453b; /* Tsinghua color
+  color:#5c307d; /* Tsinghua color
   /*color: #de4d00; // Princeton color*/
 }
   
 a:hover
 { text-decoration: underline;;
-  color:#18453b; /* MSU color */
-  /* color: #5c307d Tsinghua color */
+  /* color:#18453b; MSU color */
+  color: #5c307d /* Tsinghua color */
 }
 
 .left
@@ -278,8 +278,8 @@ ol li
 
 .avatar
 { float: left;
-  width: 300px;
-  height: 300px;
+  width: 250px;
+  height: 250px;
   text-align:center;
   overflow: hidden;  
   border: 5px solid #FFF;
@@ -307,7 +307,7 @@ ol li
 { padding: 24px 0 0 0;
   margin: 0;
   /*text-transform:capitalize;*/
-  /*color: #18453b;*/
+  /*color: #5c307d;*/
 }
 
 #logo h2
@@ -319,11 +319,11 @@ ol li
 
 #logo h1, #logo h1 a, #logo h1 a:hover 
 { padding: 2px 0 0 0;
-  /*color: #18453b;*/
+  /*color: #5c307d;*/
   text-decoration: none;}
 
 #logo h2 a {
-  color: #18453b;
+  color: #5c307d;
 }
 
 #banner {
@@ -337,7 +337,7 @@ ol li
 { height: auto;
   width: 100%;
   background: #FAFAFA;
-  border-bottom: 1px solid #18453b;
+  border-bottom: 1px solid #5c307d;
   position: fixed;
   top: 0px;  
 } 
@@ -364,7 +364,7 @@ ul#menu span
   float: left;
   padding: 10px 10px 10px 10px;
   font-weight: bold;  
-  color: #18453b;
+  color: #5c307d;
 }
 
 ul#menu li a
@@ -372,7 +372,7 @@ ul#menu li a
   display: block; 
   float: left; 
   text-align: center;
-  color: #18453b;
+  color: #5c307d;
   text-decoration: none;
   padding: 10px 10px 10px 10px;
 } 
@@ -382,7 +382,7 @@ ul#menu li.selected a, ul#menu li.selected a:hover
 
 ul#menu li a:hover
 { color: #FFF !important;
-  background: #18453b !important;
+  background: #5c307d !important;
 }
 
 .sidebar
