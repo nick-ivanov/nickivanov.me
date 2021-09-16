@@ -19,8 +19,8 @@ img
 h1, h2, h3, h4, h5, h6 
 { 
   font-family: 'Poppins', sans-serif;
-  color: #44546A;
-  /*color: #18453b;*/
+  /* color: #44546A; */
+  color: #18453b;
   margin: 0 0 14px 0;
   padding: 10px 0 5px 0;}
 
@@ -171,14 +171,16 @@ a, a:hover
 { outline: none;
   text-decoration: none;
   /*color: #323232;*/
-  color:#5c307d; /* Tsinghua color
+  /* color:#5c307d; /* Tsinghua color */
+  color: #18453b
   /*color: #de4d00; // Princeton color*/
 }
   
 a:hover
 { text-decoration: underline;;
-  /* color:#18453b; MSU color */
-  color: #5c307d /* Tsinghua color */
+  color:#18453b; 
+  /* MSU color */
+  /* color: #5c307d Tsinghua color */
 }
 
 .left
@@ -284,7 +286,8 @@ ol li
   overflow: hidden;  
   border: 5px solid #FFF;
   margin-right: 50px;  
-  border-radius: 150px 150px 150px 150px;
+  /* border-radius: 150px 150px 150px 150px; */
+  border-radius: 50px 50px 50px 50px;
 }
 
 .name
@@ -323,7 +326,8 @@ ol li
   text-decoration: none;}
 
 #logo h2 a {
-  color: #5c307d;
+  /* color: #5c307d; */
+  color:#18453b; 
 }
 
 #banner {
@@ -337,7 +341,8 @@ ol li
 { height: auto;
   width: 100%;
   background: #FAFAFA;
-  border-bottom: 1px solid #5c307d;
+  /* border-bottom: 1px solid #5c307d; */
+  border-bottom: 1px solid #18453b; 
   position: fixed;
   top: 0px;  
 } 
@@ -364,7 +369,8 @@ ul#menu span
   float: left;
   padding: 10px 10px 10px 10px;
   font-weight: bold;  
-  color: #5c307d;
+  /* color: #5c307d; */
+  color: #18453b
 }
 
 ul#menu li a
@@ -372,7 +378,8 @@ ul#menu li a
   display: block; 
   float: left; 
   text-align: center;
-  color: #5c307d;
+  /* color: #5c307d; */
+  color: #18453b;
   text-decoration: none;
   padding: 10px 10px 10px 10px;
 } 
@@ -382,7 +389,9 @@ ul#menu li.selected a, ul#menu li.selected a:hover
 
 ul#menu li a:hover
 { color: #FFF !important;
-  background: #5c307d !important;
+  /* background: #5c307d !important; */
+  background: #18453b !important;
+  
 }
 
 .sidebar
